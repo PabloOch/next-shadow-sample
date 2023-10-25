@@ -13,7 +13,7 @@
 ```bash
 # STEP 1: Get sources from GitHub
 $ git clone https://github.com/PabloOch/next-shadow-sample.git
-$ cd cloud-house
+$ cd next-shadow-sample
 
 # STEP 2: Install the requirements
 $ npm install
