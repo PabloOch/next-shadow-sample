@@ -1,5 +1,3 @@
-<p align="center">
-<img align="center" src="https://lohxt1.github.io/_assets/cloudhouse.gif" alt="cloud house"/><br/>
 ## About The Project
 
 <img src="review.png" alt="Review" title="Review Project">
