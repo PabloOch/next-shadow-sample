@@ -1,16 +1,8 @@
 <p align="center">
 <img align="center" src="https://lohxt1.github.io/_assets/cloudhouse.gif" alt="cloud house"/><br/>
-<h1 align="center">Cloud House</h1>
-</p>
-
-<p align="center">
-  <br />
-<img align="center" src="https://lohxt1.github.io/_assets/cloudhouse.png" alt="cloud house"/><br/>
-</p>
-
 ## About The Project
 
-Abstract representation of a house using shaders.
+<img src="review.png" alt="Review" title="Review Project">
 
 ## Tech Stack
 
@@ -19,8 +11,6 @@ Abstract representation of a house using shaders.
 - [Vercel](https://vercel.com/) – `hosting`
 
 ## Running the code locally
-
-To run the code locally, open _Terminal_ in your `projects` folder and take the steps:
 
 ```bash
 # STEP 1: Get sources from GitHub
