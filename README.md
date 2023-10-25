@@ -14,7 +14,7 @@
 
 ```bash
 # STEP 1: Get sources from GitHub
-$ git clone https://github.com/lohxt1/cloud-house.git
+$ git clone https://github.com/PabloOch/next-shadow-sample.git
 $ cd cloud-house
 
 # STEP 2: Install the requirements
